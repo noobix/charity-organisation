@@ -1,0 +1,52 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  .bakimage{
+      height: 400px;
+      width: auto;
+      background-color: rgba(123, 123, 172, 0.418);
+      background-image: url('../images/pexels-atc-comm-photo-305530.jpg');
+      background-size: cover;
+      background-position: center left;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+  }
+  .contHeight{
+      /* height: 75vh; */
+      width: auto;
+      background-color: aquamarine;
+  } 
+  .imgscope{
+    width: 100%;
+    background-size: contain;
+  }
+  .iconSize{
+    font-size: 48px;
+  }
+  .textSize{
+    font-size: 25px;
+  }
+  .cont-Back-color{
+    background-color: coral;
+  }
+  .img-size{
+    height: 400px;
+    width: 1500px;
+  }
+ .formsmargin{
+   margin:30 0 0 0 ;
+ }
+ .apx{
+   margin: 10 0 50 0;
+ }
